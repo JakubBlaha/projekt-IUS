@@ -7,8 +7,8 @@ Představte si, že jste Mark Zuckergerg v roce 2004 a chystáte se vytvořit so
 -    uživatel (základní informace, školy, které navštěvovali, bydliště, zaměstnání, kontakt, rodina a vztahy, atd.)
 -    uživatelé posílají žádost o přátelství, rozhodují o přijaté žádosti
 -    uživatelé publikují na zeď příspěvky (obsah, datum, místo a čas publikování, + můžou onačit uživatele)
--    uživatelé vytvářejí alba fotek (název, popis, nastavení soukromí (private, public, friends only))
--    na fotkách (čas, datum a místo pořízení, titulní fotka, mohou být označení různí uživatelé)
+-    uživatelé vytvářejí alba fotek (název, popis, titulní fotka, nastavení soukromí (private, public, friends only))
+-    na fotkách (čas, datum a místo pořízení, mohou být označení různí uživatelé)
 -    uživatelé mohou vytvářet akce (jméno, popis, místo, čas, den, účastníci)
 -    fotka může být pořízena v rámci akce
 -    uživatelé – konverzace (2-… uživatelů, název) - vyměňovat zprávy (obsah, datum, čas a místo zaslání).
